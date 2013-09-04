@@ -1,0 +1,8 @@
+; Product information file for use by WebUpdate. DO NOT modify this file or WebUpdate
+; may not function correctly.
+
+[Product]
+Name=Network Chat
+VerMajor=1
+VerMinor=41
+VerRev=326

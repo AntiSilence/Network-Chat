@@ -1,0 +1,16 @@
+:Base Network Chat.hlp
+:Title Network Chat Help
+:Index dummy=dummy.hlp ;(This is necessary when using KLinks - because of a bug in the help
+:Link dummy.hlp        ; compiler. Without this only the first keyword would be looked up!)
+1 Contents of Help=SHM_contents9999@Network Chat.hlp
+1 Network Chat Help
+1 Welcome to Network Chat=SHM_contents0001@Network Chat.hlp
+1 Requirements=SHM_contents0002@Network Chat.hlp
+1 Configuration=SHM_contents0003@Network Chat.hlp
+1 Options=SHM_contents0004@Network Chat.hlp
+1 Messages=SHM_contents0005@Network Chat.hlp
+1 Emoticons=SHM_contents0006@Network Chat.hlp
+1 Priavcy Modes=SHM_contents0007@Network Chat.hlp
+1 Other Features=SHM_contents0008@Network Chat.hlp
+1 Support & Bug Reports=SHM_contents0009@Network Chat.hlp
+1 Legal=SHM_contents0010@Network Chat.hlp

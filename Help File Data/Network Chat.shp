@@ -1,0 +1,408 @@
+##v##00.4.50
+EditHelpFileTitle.Text=Network Chat Help
+form2.STextForeHeadline.Color=0
+form2.STextForeText.Color=0
+form2.STextBackHeadline.Color=13828095
+form2.STextBackText.Color=16777215
+form2.STextHeadlineFont.Caption=Tahoma
+form2.STextTextFont.Caption=Tahoma
+form2.sTextFontSizeForHeadline.Caption=20
+form2.sTextFontSizeForText.Caption=9
+form2.CBoxBold.Checked=0
+form2.CBoxNoForeColor.Checked=0
+form2.CBoxLanguageID.ItemIndex=0
+form2.CBoxCharSet.ItemIndex=0
+form2.EditContents.Text=Contents of Help
+form2.EditFrontpageName.Text=Contents of Help
+form2.CBoxDontMakeFrontpage.Checked=0
+form2.EditLogoPath.Text=logo_small.bmp
+form2.EditFrontpageButtonCaption.Text=Contents
+form2.RGroupHorizontalAlignment.ItemIndex=0
+form2.RGroupVerticalAlignment.ItemIndex=0
+form2.CBoxBlankLineBeforeEachHeading.Checked=0
+form2.CBoxMakeFrontPageButton.Checked=0
+form2.SpinEditFrontpageIDnumber.Value=9999
+form2.CBoxAddAboutMenu.Checked=0
+form2.EditAboutMenuCaption.Text=&About this help file...
+form2.CBoxPopupPagesForAboutMenu.Tag=0
+form2.EditConstantNameFilePrefix.Text=pageConstants_
+form2.EditConstantNameFileExt.Text=txt
+form5.sTextColor1=0
+form5.sTextColor2=9743070
+form5.sTextColor3=12386403
+form5.sTextColor4=255
+form5.sTextColor5=8421376
+form5.sTextColor6=8650752
+form5.sTextColor7=33280
+form5.sTextColor8=32896
+form5.sTextColor9=13026246
+form5.sTextColor10=16711680
+form5.sTextColor11=65280
+form5.sTextColor12=8651007
+form5.sTextColor13=16777215
+form5.sTextColor14=16757429
+form5.sTextColor15=9764863
+form5.sTextColor16=8421504
+form5.sTextComment1=
+form5.sTextComment2=
+form5.sTextComment3=
+form5.sTextComment4=
+form5.sTextComment5=
+form5.sTextComment6=
+form5.sTextComment7=
+form5.sTextComment8=
+form5.sTextComment9=
+form5.sTextComment10=
+form5.sTextComment11=
+form5.sTextComment12=
+form5.sTextComment13=
+form5.sTextComment14=
+form5.sTextComment15=
+form5.sTextComment16=
+NumOfPages=12
+------------ end of project settings / page settings follow ------------
+pageC.pages[0].ImageIndex=-1
+pageTitle(0).Text=Welcome to Network Chat
+getPageConstantLabel(0).Caption=WelcomeToNetwork
+getPageContentHeaderLabel(0).Caption=
+pageKeywords(0).Text=
+pageC.pages[1].ImageIndex=-1
+pageTitle(1).Text=Requirements
+getPageConstantLabel(1).Caption=Requirements
+getPageContentHeaderLabel(1).Caption=
+pageKeywords(1).Text=
+pageC.pages[2].ImageIndex=-1
+pageTitle(2).Text=Configuration
+getPageConstantLabel(2).Caption=Configuration
+getPageContentHeaderLabel(2).Caption=
+pageKeywords(2).Text=
+pageC.pages[3].ImageIndex=-1
+pageTitle(3).Text=Options
+getPageConstantLabel(3).Caption=Options
+getPageContentHeaderLabel(3).Caption=
+pageKeywords(3).Text=
+pageC.pages[4].ImageIndex=-1
+pageTitle(4).Text=Messages
+getPageConstantLabel(4).Caption=Messages
+getPageContentHeaderLabel(4).Caption=
+pageKeywords(4).Text=
+pageC.pages[5].ImageIndex=-1
+pageTitle(5).Text=Emoticons
+getPageConstantLabel(5).Caption=Emoticons
+getPageContentHeaderLabel(5).Caption=
+pageKeywords(5).Text=
+pageC.pages[6].ImageIndex=-1
+pageTitle(6).Text=Priavcy Modes
+getPageConstantLabel(6).Caption=PriavcyModes
+getPageContentHeaderLabel(6).Caption=
+pageKeywords(6).Text=
+pageC.pages[7].ImageIndex=-1
+pageTitle(7).Text=Other Features
+getPageConstantLabel(7).Caption=OtherFeatures
+getPageContentHeaderLabel(7).Caption=
+pageKeywords(7).Text=
+pageC.pages[8].ImageIndex=-1
+pageTitle(8).Text=Support & Bug Reports
+getPageConstantLabel(8).Caption=SupportBug
+getPageContentHeaderLabel(8).Caption=
+pageKeywords(8).Text=
+pageC.pages[9].ImageIndex=-1
+pageTitle(9).Text=Legal
+getPageConstantLabel(9).Caption=Legal
+getPageContentHeaderLabel(9).Caption=
+pageKeywords(9).Text=
+pageC.pages[10].ImageIndex=0
+pageTitle(10).Text=port number
+getPageConstantLabel(10).Caption=PortNumber
+getPageContentHeaderLabel(10).Caption=
+pageKeywords(10).Text=
+pageC.pages[11].ImageIndex=0
+pageTitle(11).Text=about emoticons
+getPageConstantLabel(11).Caption=AboutEmoticons
+getPageContentHeaderLabel(11).Caption=
+pageKeywords(11).Text=
+pageC.pages[12].ImageIndex=0
+pageTitle(12).Text=Design/Testing Systems
+getPageConstantLabel(12).Caption=
+getPageContentHeaderLabel(12).Caption=
+pageKeywords(12).Text=
+------------ end of page titles / full text of pages follow ------------
+----- SHM ---- page 0 ---- 
+\{bml logo_small.bmp\}
+Network Chat 1.41
+Written and Designed by Trevor Dennett-Thorpe.
+Copyright ©2003-05 {\uldb Global DevTech}{\v !ExecFile(www.global-devtech.com,,9,SHM_contents0011)}.
+
+
+Thank you for installing and using Network Chat, I hope you find it useful and to your needs. Please take time to look through this help file, it may help if you have any problems.
+
+
+<document.bmp><b><color=10>  Update History</color></b>
+
+<onestep.bmp>  <b>07 February 2005</b> - <i>Version 1.41</i> - Bug fix to sort the problem of Network Chat not minimising to system tray when Windows starts.
+
+<onestep.bmp>  <b>20 December 2004</b> - <i>Version 1.40</i> - Added Speech Message sending, font size and style can now be selected. Added a new option to the Notification window. Added startup tips, added our new WebUpdate system. Added XP-style windows for XP users. Made the Setup package smaller too! 
+
+<onestep.bmp>  <b>28 June 2004</b> - <i>Version 1.30</i> - Added active HyperLinks to the main chat window and copy/paste functions.
+
+<onestep.bmp>  <b>12 July 2003</b> - <i>Version 1.20 build 282</i> - Fixed shutting down problem when restarting Windows with Network Chat running. Added a 'Get Names' button to the <jump=SHM_contents0003>Configuration</jump> window to automatically detect computers on the network.
+
+<onestep.bmp>  <b>13 June 2003</b> - <i>Version 1.20</i> - Added a "Minimise to System Tray" option with bubble message, Privacy Mode alerts and fixed a few minor cosmetic issues.
+
+<onestep.bmp>  <b>02 May 2003</b> - <i>Version 1.10</i> - Added support for <pop=SHM_contents0012>Emoticons</pop>, added user list in main window, added custom display name, fixed reporting of in-use port, added Windows Help File and more.
+
+<onestep.bmp>  <b>14 Apr 2003</b> - <i>Version 1.01</i> - Minor update, fixing non-modal windows and changed a shortcut key.
+
+<onestep.bmp>  <b>01 Feb 2003</b> - <i>Version 1.00</i> - First release version.
+
+
+<document.bmp><b><color=10>  Why I wrote Network Chat</color></b>
+
+I was using the network at work, and was trying to chat using WinPopUp and was finding it a really useless program. After using chat rooms on the internet, I decided I was going to write a chat room-style chat program for networks! Network Chat is the result.
+
+
+<document.bmp>  <color=10><b>My thanks go to the following people:</b></color>
+
+	<onestep.bmp>  Luke Gillott and
+	<onestep.bmp>  Darren Ives;	
+
+For helping me test Network Chat.
+
+Additionally:
+
+	<onestep.bmp>  Steve Robbins at {\uldb DevPower Solutions}{\v !ExecFile(http://www.devpower.com,,9,SHM_contents0011)} for the quality Tray Icon control that has made my life easier!
+----- SHM ---- page 1 ---- 
+<document.bmp><color=10b>  To run Network Chat you will need:</color>
+
+	<onestep.bmp>  A Network (duh!)
+		
+		<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color>   You can use network chat on one PC, but you would be talking to yourself which is pretty pointless!!
+
+	<onestep.bmp>  Pentium® or AMD® K6 or better processor (PII 350MHz, or K6-2 333Mhz or higher recommended). <pop=SHM_contents0013>Click Here for info on the Design/Testing Systems</pop>
+
+	<onestep.bmp>  10Mb Hard Drive Space on each PC
+
+	<onestep.bmp>  Windows 9x/ME/2000/XP or Windows Server 2003 (not tested under Windows NT or Win32s, also some functions do not work under Windows 95/98!)
+
+	<onestep.bmp>  16Mb RAM (this shouldn't be a problem!)
+
+If you have the above, then things should be fine.
+----- SHM ---- page 2 ---- 
+Please read this section carefully before configuring Network Chat, or ask your Network Administrator to help if you have any problems!
+
+<document.bmp><color=10b>  Computers On The Network:</color>
+
+\par\ql\{bml config.bmp\}\par\ql
+
+Before you can use Network Chat, you have to tell it about the computers on the network (it's more suited to smaller neworks). First, open Network Chat the goto the <b>CHAT -> NETWORK CONFIGURATION</b> menu. You will see a window where you can add the names of the computers on the network. Your computer name is displayed at the top of the window, just below the title bar. You must type a computer name into the text box and click <b>ADD</b> or press enter. If the name you entered is found on the network, it will be added to the list on the left. If not, you will be informed that the computer was not found.
+
+Please note, however, this may be because the user may not be logged on to the network. The computer will still be found even if Network Chat is not open on the computer you entered, as long as it is logged on. Don't forget, you <b>MUST</b> configure every copy of Network Chat to talk to the same computers, but <b><u>NOT</u></b> adding the current computer!!
+
+<onestep.bmp>  For example:
+
+You have 4 computers on your network, named <b>ADMIN</b>, <b>ITDEPT</b>, <b>PACKING</b> and <b>RECEPTION</b>. The following is the names you would configure on EACH computer in Network Chat:
+
+<b><u>ADMIN name list:		ITDEPT name list:</u>
+
+ITDEPT				ADMIN
+PACKING			PACKING
+RECEPTION			RECEPTION
+
+
+<u>PACKING name list:		RECEPTION name list:</u>
+
+ADMIN				ADMIN
+ITDEPT				ITDEPT
+RECEPTION			PACKING</b>
+
+Note that each computer <b>DOES NOT LIST ITSELF!</b> You can also remove names from the list by selecting one, then clicking the REMOVE button.
+
+<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color>  Network Chat will <b><u>NOT</u></b> allow you to enter your own computer name into the list!!
+
+<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color>  Use the <b>Get Names</b> button to automatically add all the computers in your workgroup, apart from your own (this button is not available under Windows 9x systems).
+
+
+<document.bmp><color=10b>  Selected Port:</color>
+
+Before saving the name list, you must also set a PORT to use. This must be set the same on all computers that Network Chat is installed and used on. The default <pop=SHM_contents0011>port number</pop> is <b>1001</b>, but this may be in use. If the port is in use, Network Chat will notify you of this before opening. You will need to change the port number in the <b>Selected Port</b> box. If you change the port number, Network Chat will need to be restarted before the changes take effect, and must be done on all systems running Network Chat. Don't forget to click the <b>SAVE</b> button in the <b>NETWORK CONFIGURATION</b> window!
+
+<onestep.bmp>  Please note, if you have any firewall software installed, you may need to configure it to use the selected port. If your firewall is not configured for use with the port you set here, it may block any communication until configured. If you are not sure how to do this, your network administrator may be able to help.
+----- SHM ---- page 3 ---- 
+<document.bmp><color=10b>  General:</color>
+
+There are now a total of six (6) options available in this version of Network Chat. These are located in the <b>CHAT -> OPTIONS</b> menu, <b>General</b> tab
+
+\par\ql\{bml options.bmp\}\par\ql
+
+<onestep.bmp>  <b>Show User List in Main Window</b>
+This lets you either show or hide the list of computers that have been.
+
+<onestep.bmp>  <b>Check for Updates when Network Chat is run</b>
+This will automatically check to see if a newer version is available when you run Network Chat. An active internet connection is required. This option is exactly the same as the <b>Check For Update</b> in the <b>HELP</b> menu, but automatic. Please see <jump=SHM_contents0008>Other Features</jump> for more info.
+
+<onestep.bmp>  <b>Show Exit Confirmation</b>
+This will allow you to confirm whether you wish to leave Network Chat or not.
+
+<onestep.bmp>  <b>Minimise to System Tray (including when in Privacy Mode)</b>
+When enabled, will minimise Network Chat to your System Tray instead of the Taskbar. You will see the Network Chat icon in your System Tray like this:
+	\par\ql\{bml taskbar1.bmp\}\par\ql
+
+Clicking once on the icon will restore Network Chat to it's previous state. If you select either of the Privacy Modes, and this option is enabled, Network chat will minimise to the System Tray. Right-clicking once will bring up a small menu where you can exit or open Network Chat.
+
+<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color>  If you have 'Minimise to System Tray' turned on, and 'Popup Window on Incoming Message' (on the Notification tab) turned off, you will see a nice yellow bubble containing the incoming message! This is just a visual way to alert you to messages, without poping-up Network Chat.
+
+<onestep.bmp>  <b>Use Custom Display Name</b>
+If you would like to display a custom name (nickname for example) to the other users, turn this option on and enter a name in the box! This will be displayed in the Message Window. Please note that the computer name will also be displayed, preceding your display name.
+
+<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color>  You can include Emoticons in your display name! Try it!
+
+<onestep.bmp>  <b>Display Tips When Network Chat Starts</b>
+If you like seeing the startup Tips, keep this checked. These are now on by default.
+
+
+<document.bmp><color=10b>  Notification:</color>
+
+There are currently three (3) notification options available. These are located in the <b>CHAT -> OPTIONS</b> menu, <b>Notification</b> tab
+
+\par\ql\{bml notification.bmp\}\par\ql
+
+<onestep.bmp>  If you wish a sound to be played when you receive a message, you can turn <b>PLAY SOUND ON INCOMING MESSAGE</b> on. The selected sound file (WAV) will then be played when a message is received.  Network Chat is supplied with six (6) sound files, but you may specify any WAV file you want by clicking on the <b>BROWSE</b> button.
+
+<onestep.bmp>  If you minimise the Network Chat window, and wish it to be restored to normal (ie, popped up) when a message is received, then turn <b>POPUP WINDOW ON INCOMING MESSAGE</b> on.
+
+<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color>  Both of these Notification options <b><u>DO NOT OPERATE </u></b>when you have either of the <b>PRIVACY MODE</b>'s turned on (see <jump=SHM_contents0007>Privacy Modes</jump>).
+----- SHM ---- page 4 ---- 
+<document.bmp><color=10b>  Chat Messages:</color>
+
+After you have configured Network Chat, you can then start to chat with other users on your network! The main screen is a basic chat-room style, but you can also send a user a private message so that other users don't see it...
+
+\par\ql\{bml main.bmp\}\par\ql
+
+<onestep.bmp>  <b>Emoticons</b>: This enables you to use these graphical <pop=SHM_contents0012>Emotions</pop> in your messages. This button will open the <jump=SHM_contents0006>Emoticon Selection</jump> window where you can choose from a selection of Emoticons.
+
+<onestep.bmp>  <b>Font</b>: This allows you to pick a different font for the Message windows (both Incoming messages, and the messages you type will use the same font). The fonts listed here may differ depending which fonts are installed on each system.
+
+
+<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color> To clear your received messages, click on the <b>MESSAGE -> CLEAR MESSAGES</b> menu, or use the <b>CTRL-L</b> shortcut key.
+
+
+<document.bmp><color=10b>  Private Messages:</color>
+
+To send a private message, go to the <b>MESSAGE -> SEND PRIVATE MESSAGE</b> menu. A small window will be displayed. First, click on the drop-down list; all the configured users are listed here!
+
+\par\ql\{bml pm.bmp\}\par\ql
+
+Select a user and then type your message into the text box below the user name list. Then, click <b>SEND</b> or press <b>ENTER</b>. The message will be sent to the selected user if they are logged on.
+
+<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color>   You can also send a Private Message to a user by selecting them from the User List in the main window, then doube-clicking on their name.
+
+<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color>   You can send a message so it's read out to the recipient by ticking the Send As Speech option.
+
+
+<document.bmp><color=10b>  Messages To IP Addresses:</color>
+
+If you know the IP address of a computer on your network, you can send a message to Network Chat on that IP. This is useful to send a message to a user not in the <b>NAMES LIST</b>.
+
+\par\ql\{bml IP.bmp\}\par\ql
+
+<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color> This option also lets you send a message to another Network Chat user over the Internet providing you know the other users IP address.
+
+<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color>   You can send a message so it's read out to the recipient by ticking the Send As Speech option.
+----- SHM ---- page 5 ---- 
+<document.bmp>  <b><color=10>Using Emoticons:</color></b>
+
+\par\ql\{bml em.bmp\}\par\ql
+
+When you click on the Emoticons button, you will see the above window open just below the button. Here you can choose one of the diplayed Emoticons. When you click on one, it's required text equivalent will be placed in the message typing area. When you send the message, the text Emoticon will be converted to graphical style. You can also use the text codes in your messages without choosing an Emoticon from the list, for example:
+
+\par\ql\{bml ex1.bmp\}\par\ql
+
+ Will be translated into:    
+
+\par\ql\{bml ex2.bmp\}\par\ql
+
+This applies to all the Emotions that can be used. There may be more added in later versions, but for now there are 13 currently supported. These are:
+
+	Happy	\{bmc sm_happy.bmp\}	:)
+	Big Grin	\{bmc sm_grin.bmp\}	:D or :d
+	Wink	\{bmc sm_wink.bmp\}	;)
+	Cool		\{bmc sm_shades.bmp\}	8)
+	Sad		\{bmc sm_unhappy.bmp\}	:(
+	Blushing	\{bmc sm_blush.bmp\}	:$
+	Angry	\{bmc sm_angry.bmp\}	:@
+	Worried	\{bmc sm_worried.bmp\}	:%
+	Evil		\{bmc sm_devil.bmp\}	(6)
+	Tongue	\{bmc sm_tongue.bmp\}	:P or :p
+	Beer	\{bmc sm_pint.bmp\}	(B) or (b)
+	Guns	\{bmc sm_guns.bmp\}	(%)
+	Heart	\{bmc sm_heart.bmp\}	(L) or (l)
+
+<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color>  You can include Emoticons in your Custom Display Name, for example: NightWalker (6)
+----- SHM ---- page 6 ---- 
+<document.bmp><color=10b>  Privacy Modes:</color>
+
+If you leave your computer for any reason and don't want people to read your messages while you're away, there are two (2) privacy modes. These are located in the <b>MESSAGE -> PRIVACY</b> menu.
+
+\par\ql\{bml privacy.bmp\}\par\ql
+
+The first privacy mode (shortcut <b>CTRL+P</b>) will hide your messages, minimise Network Chat and <b>SAVE</b> incoming messages. When you turn <b>PRIVACY</b> off, any messages that were received while you were away will be displayed in the message window.
+
+The second is the same as the above, but will <b>IGNORE</b> any messages. When you turn PRIVACY off, only the messages that were displayed when <b>PRIVACY</b> was turned on will be displayed.
+
+<onestep.bmp> <onestep.bmp> <onestep.bmp> <color=4b>Tip:</color>  When you select one of the Privacy Modes, or turn it off, Network Chat will send a message to the users in your user list to inform them of what mode you are in.
+----- SHM ---- page 7 ---- 
+<document.bmp><color=10><b>  Check For Update:</b></color>
+
+If Network Chat is installed on any computers which are connected to the internet, you can check to see if you are using the latest version by clicking on the <b>HELP -> CHECK FOR UPGRADE</b> menu.
+
+This option now opens WebUpdate, supplied with Network Chat. Please follow the instructions on the WebUpdate screens.
+
+\par\ql\{bml webupdate.bmp\}\par\ql
+
+This feature can now be enabled to check for updates when Network Chat is run. See the <jump=SHM_contents0004>Options</jump> section for more information.
+----- SHM ---- page 8 ---- 
+If you have any problems or questions, please visit the support section of my website which may help. If that does not solve any problems, please e-mail me at:
+
+	\{bmc shortcut.bmp\} {\uldb info@global-devtech.com}{\v !ExecFile(info@global-devtech.com,,9,SHM_contents0011)}
+
+If you find a bug, please tell me about it! Please include the following information:
+
+	<onestep.bmp>  Operating System & Network Type (TCP/IP, NetBEUI etc)
+	<onestep.bmp>  System processor (may be slow on 200MHz or less!)
+	<onestep.bmp>  Installed Memory
+
+and send bug reports to:
+
+	\{bmc shortcut.bmp\} {\uldb bugreport@global-devtech.com}{\v !ExecFile(mailto:bugreport@global-devtech.com,,9,)}
+----- SHM ---- page 9 ---- 
+By installing this software you agree to the following:
+
+This software is free for personal and corporate use. You may install it on as many systems as you wish/require. 
+
+You may include this software on a web site, CD-ROM or library provided that the original archive remains unchanged and mostly, you may not charge for it, reverse engineer it or use in any illegal manner.
+
+
+<color=8b><boxl><b>DISCLAIMER AND DISCLAIMER OF WARRANTY
+
+"GDT" referes to Global DevTech.
+
+THIS SOFTWARE AND ACCOMPANYING WRITTEN MATERIALS (INCLUDING INSTRUCTIONS FOR USE) ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. FURTHER, GDT, DOES NOT WARRANT, GUARANTEE, OR MAKE ANY REPRESENTATIONS REGARDING THE USE, OR THE RESULTS OF USE, OF THE SOFTWARE OR WRITTEN MATERIALS IN TERMS OF CORRECTNESS, ACCURACY, RELIABILITY, CURRENTNESS, OR OTHERWISE. THE ENTIRE RISK AS TO THE RESULTS AND PERFORMANCE OF THE SOFTWARE IS ASSUMED BY YOU. IF THE SOFTWARE OR WRITTEN MATERIALS ARE DEFECTIVE, YOU, AND NOT GDT OR ITS DEALERS, DISTRIBUTORS, AGENTS, OR EMPLOYEES, ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR, OR CORRECTION.
+ 
+THE ABOVE IS THE ONLY WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, THAT IS MADE BY GDT, ON THIS GDT PRODUCT. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY GDT, ITS DEALERS, DISTRIBUTORS, AGENTS OR EMPLOYEES SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF THIS WARRANTY AND YOU MAY NOT RELY ON ANY SUCH INFORMATION OR ADVICE.
+ 
+NEITHER GDT NOR ANYONE ELSE WHO HAS BEEN INVOLVED IN THE CREATION, PRODUCTION OR DELIVERY OF THIS PRODUCT SHALL BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL OR INCIDENTAL DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, AND THE LIKE) ARISING OUT OF THE USE OR INABILITY TO USE SUCH PRODUCT EVEN IF GDT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+This disclaimer shall be governed by the laws of England & Wales.</b></box></color>
+
+
+<b>Copyright ©2003-04 Global DevTech. Visit our website at {\uldb http://www.global-devtech.com}{\v !ExecFile(http://www.global-devtech.com,,9,SHM_contents0011)}
+<b>The Tray Icon control used in Network Chat is Copyright © 1997-2002, Steve Robbins, {\uldb DevPower Solutions}{\v !ExecFile(http://www.devpower.com,,9,SHM_contents0011)} (All rights reserved)</b>
+All other trademarks are acknowlegded and are the property of their respective owners.</b>
+----- SHM ---- page 10 ---- 
+A port is used to provide access to and from your computer to other computers on a network, including the internet. This number must not be in use, and if you have any firewall software installed, it must be configured to access any ports you wish to use.
+----- SHM ---- page 11 ---- 
+An Emoticon is a small graphic designed to express emotion. Originally used as ASCII codes such as :-) and :-( they are now used in graphical form in chat rooms and internet forums.
+----- SHM ---- page 12 ---- 
+Network Chat was developed and tested using the following systems:
+
+Developed on an AMD Athlon® 750MHz with 384Mb RAM. Additionally tested with a Pentium® PIII 450MHz, and Pentium® MMX 233Mhz. The new version of Network Chat was developed on an Athlon XP3200+ with 1Gb RAM.

@@ -1,0 +1,4 @@
+Line 42: Class DevPowerTrayIcon.TrayIcon of control tray was not a loaded control class.
+Line 45: The property name _ExtentX in tray is invalid.
+Line 46: The property name _ExtentY in tray is invalid.
+Line 48: The property name Icon in tray is invalid.
